@@ -1,5 +1,5 @@
 ### 个人信息
-+ **性&ensp;&ensp;&ensp;&ensp;别：** 男 <img src="https://ayaka-1314005561.cos.ap-nanjing.myqcloud.com/IMG_0704(20220904-234127).JPG" alt="IMG_0704(20220904-234127)" style="zoom:15%;" align="right" />
++ **性&ensp;&ensp;&ensp;&ensp;别：** 男 <img src="头像.jpg" alt="个人照片" style="zoom:18%;" align="right" />
 + **出生日期：** 2000年7月20日
 + **邮&ensp;&ensp;&ensp;&ensp;箱：** 1498761126@qq.com
 + **手&ensp;机&ensp;号：** 14755336032
