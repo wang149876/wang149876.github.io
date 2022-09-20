@@ -6,13 +6,13 @@
 
 ---
 
-### :file_folder: 我的技能
+###  我的技能
 + C++
 + Java、SpringBoot
 + Python
 ----
 
-### :file_folder: 教育背景
+###  教育背景
 
 | 学校 | 时间 | 阶段 |
 |  :----  | :----  | :---- |
@@ -20,7 +20,7 @@
 |  江南大学  | 2018年9月 - 2022年7月 | 本科 |
 
 ----
-### :file_folder: 社交主页
+###  社交主页
 
 <img src="https://img-blog.csdnimg.cn/4e998997c23846f997560287de604f67.png" width="30" align='left'/>**github：[wang149876]([wang149876 (ROSE_PAUL) (github.com)](https://github.com/wang149876))**
 
